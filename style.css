@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chessboard{
+    border: 1px solid black ;
+    width: 80%;
+    height: 640px;
+}
+.chessboard div{
+    width: 10%;
+    
+}
